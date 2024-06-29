@@ -20,7 +20,7 @@
 .logo{
  height: 55px;
  width: 113px; 
- background-image: url("/img/what.jpg");
+ background-image: url("/what.jpg");
  background-size: cover;
  z-index: 1;
  border-radius: 2%;
@@ -113,7 +113,7 @@
 .lang-logo{
     height: 16px;
     width: 20px;
- background-image: url("/img/ame.jpg");
+ background-image: url("/ame.jpg");
  background-size: cover;
  border-radius:2px;
  position: relative;
@@ -186,7 +186,7 @@ color: white;
 
 /** hero section **/
 .hero-section{
-    background-image: url("/img/amazon.jpg");
+    background-image: url("/amazon.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -248,28 +248,28 @@ font-size: 1.2rem;
 }
 .box-img2{
     height: 300px;
-    background-image: url("/img/first.jpg");
+    background-image: url("/first.jpg");
     background-size: cover;
 }
 .box-img4{
     height: 300px;
-    background-image: url("/img/second.jpg");
+    background-image: url("/second.jpg");
     background-size: cover;
 }.box-img5{
     height: 300px;
-    background-image: url("/img/third.jpg");
+    background-image: url("/third.jpg");
     background-size: cover;
 }.box-img6{
     height: 300px;
-    background-image: url("/img/forth.jpg");
+    background-image: url("/forth.jpg");
     background-size: cover;
 }.box-img7{
     height: 300px;
-    background-image: url("/img/five.jpg");
+    background-image: url("/five.jpg");
     background-size: cover;
 }.box-img8{
     height: 300px;
-    background-image: url("/img/six.jpg");
+    background-image: url("/six.jpg");
     background-size: cover;
 }
 .box-img1{
@@ -281,7 +281,7 @@ font-size: 1.2rem;
 .first-4{
     height: 100px;
     width: 280px;
-      background-image: url("/img/first-4-inone.jpg");
+      background-image: url("/first-4-inone.jpg");
       background-size: contain;
       position: relative;
       right: 15px;
@@ -297,7 +297,7 @@ font-size: 1.2rem;
 .second-4{
     height: 100px;
     width: 280px;
-      background-image: url("/img/second-4-inone.jpg");
+      background-image: url("/second-4-inone.jpg");
       background-size: contain;
       position: relative;
       left: 15px;
@@ -318,7 +318,7 @@ font-size: 1.2rem;
 .third-4{
     height: 100px;
     width: 280px;
-      background-image: url("/img/three-4-inone.jpg");
+      background-image: url("/three-4-inone.jpg");
       background-size: contain;
       position: relative;
       right: 15px;
@@ -327,7 +327,7 @@ font-size: 1.2rem;
 .forth-4{
     height: 100px;
     width: 280px;
-      background-image: url("/img/forth-4-inone.jpg");
+      background-image: url("/forth-4-inone.jpg");
       background-size: contain;
       position: relative;
       left: 15px;
@@ -339,7 +339,7 @@ font-size: 1.2rem;
 }
 .first-3{
     height: 150px;
-   background-image: url("/img/first-3-inone.jpg");
+   background-image: url("/first-3-inone.jpg");
 background-size: cover;
 }
 .first-3 p1{
@@ -361,17 +361,17 @@ background-size: cover;
 .first{
     height: 100px;
     width: 100px;
-    background-image: url("/img/second-3-inone.jpg");
+    background-image: url("/second-3-inone.jpg");
 }
 .second{
     height: 100px;
     width: 100px;
-    background-image: url("/img/three-3-inone.jpg"); 
+    background-image: url("/three-3-inone.jpg"); 
 }
 .third{
     height: 100px;
     width: 100px;
-    background-image: url("/img/forth-3-inone.jpg"); 
+    background-image: url("/forth-3-inone.jpg"); 
 }
 /** best seller section (2 line)**/
 .outer-best-seller{
@@ -403,31 +403,31 @@ background-size: cover;
     justify-content: space-between;
 }
 .toy-1{
-    background-image: url("/img/toy-1.jpg");
+    background-image: url("/toy-1.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
 }
 .toy-2{
-    background-image: url("/img/toy-2.jpg");
+    background-image: url("/toy-2.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
 }
 .toy-3{
-    background-image: url("/img/toy-3.jpg");
+    background-image: url("/toy-3.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
 }
 .toy-4{
-    background-image: url("/img/toy-4.jpg");
+    background-image: url("/toy-4.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
 }
 .toy-5{
-    background-image: url("/img/toy-5.jpg");
+    background-image: url("/toy-5.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
@@ -437,7 +437,7 @@ background-size: cover;
 .first-4-1{
     height: 100px;
     width: 130px;
-      background-image: url("/img/first-4-1.jpg");
+      background-image: url("/first-4-1.jpg");
       background-size: contain;
       position: relative;
      
@@ -445,7 +445,7 @@ background-size: cover;
 .second-4-1{
     height: 100px;
     width: 130px;
-      background-image: url("/img/second-4-1.jpg");
+      background-image: url("/second-4-1.jpg");
       background-size: contain;
       position: relative;  
 
@@ -453,14 +453,14 @@ background-size: cover;
 .third-4-1{
     height: 100px;
     width: 130px;
-      background-image: url("/img/third-4-1.jpg");
+      background-image: url("/third-4-1.jpg");
       background-size: contain;
 
 }
 .forth-4-1{
     height: 100px;
     width: 130px;
-      background-image: url("/img/forth-4-1.jpg");
+      background-image: url("/forth-4-1.jpg");
       background-size: contain;
 
 }
@@ -468,7 +468,7 @@ background-size: cover;
 .first-4-2{
     height: 100px;
     width: 130px;
-      background-image: url("/img/first-4-2.jpg");
+      background-image: url("/first-4-2.jpg");
       background-size: contain;
       position: relative;
      
@@ -476,7 +476,7 @@ background-size: cover;
 .second-4-2{
     height: 100px;
     width: 130px;
-      background-image: url("/img/second-4-2.jpg");
+      background-image: url("/second-4-2.jpg");
       background-size: contain;
       position: relative;  
 
@@ -484,14 +484,14 @@ background-size: cover;
 .third-4-2{
     height: 100px;
     width: 130px;
-      background-image: url("/img/third-4-2.jpg");
+      background-image: url("/third-4-2.jpg");
       background-size: contain;
 
 }
 .forth-4-2{
     height: 100px;
     width: 130px;
-      background-image: url("/img/forth-4-2.jpg");
+      background-image: url("/forth-4-2.jpg");
       background-size: contain;
 
 }
@@ -500,7 +500,7 @@ background-size: cover;
 .first-4-3{
     height: 100px;
     width: 130px;
-      background-image: url("/img/first-4-3.jpg");
+      background-image: url("/first-4-3.jpg");
       background-size: contain;
       position: relative;
      
@@ -508,7 +508,7 @@ background-size: cover;
 .second-4-3{
     height: 100px;
     width: 130px;
-      background-image: url("/img/second-4-3.jpg");
+      background-image: url("/second-4-3.jpg");
       background-size: contain;
       position: relative;  
 
@@ -516,20 +516,20 @@ background-size: cover;
 .third-4-3{
     height: 100px;
     width: 130px;
-      background-image: url("/img/third-4-3.jpg");
+      background-image: url("/third-4-3.jpg");
       background-size: contain;
 
 }
 .forth-4-3{
     height: 100px;
     width: 130px;
-      background-image: url("/img/forth-4-3.jpg");
+      background-image: url("/forth-4-3.jpg");
       background-size: contain;
 
 }
 .box-img4-4{
     height: 300px;
-    background-image: url("/img/forth-4-4.jpg");
+    background-image: url("/forth-4-4.jpg");
     background-size: cover;
 }
 .outer-best-seller-2{
@@ -551,31 +551,31 @@ background-size: cover;
 
 
 .pro-1{
-    background-image: url("/img/pro-1.jpg");
+    background-image: url("/pro-1.jpg");
     background-size: contain;
     height: 200px;
     width: 150px;
 }
 .pro-2{
-    background-image: url("/img/pro-2.jpg");
+    background-image: url("/pro-2.jpg");
     background-size: cover;
     height: 220px;
     width: 240px;
 }
 .pro-3{
-    background-image: url("/img/pro-3.jpg");
+    background-image: url("/pro-3.jpg");
     background-size: cover;
     height: 220px;
     width: 350px;
 }
 .pro-4{
-    background-image: url("/img/pro-4.jpg");
+    background-image: url("/pro-4.jpg");
     background-size: cover;
     height: 220px;
     width: 250px;
 }
 .pro-5{
-    background-image: url("/img/pro-5.jpg");
+    background-image: url("/pro-5.jpg");
     background-size: cover;
     height: 220px;
     width: 300px;
@@ -630,7 +630,7 @@ background-size: cover;
 .logo-foot-panel-2{
     width: 113px;
     height: 60px;
-    background-image: url("/img/what.jpg");
+    background-image: url("/what.jpg");
     background-size: cover;
 }
 .foot-panel-2-language{
@@ -670,7 +670,7 @@ background-size: cover;
 .usa{
     height: 16px;
     width: 20px;
-    background-image: url("/img/ame.jpg");
+    background-image: url("/ame.jpg");
     background-size: cover;
     display: inline-block;
 }
