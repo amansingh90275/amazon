@@ -445,7 +445,7 @@ background-size: cover;
 .second-4-1{
     height: 100px;
     width: 130px;
-      background-image: url("second-4-1.jpg");
+      background-image: url("/second-4-2.jpg");
       background-size: contain;
       position: relative;  
 
